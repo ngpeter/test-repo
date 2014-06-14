@@ -1,4 +1,5 @@
 test-repo
 =========
 
-following the example from class
+## following the example from class
+### smaller heading
